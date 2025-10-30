@@ -4,8 +4,8 @@
     <h3 align="left">
         <ul>
             <li>🔭 I am currently specializing in backend development.</li>
-            <li>👨‍🎓 I'm programming technician.</li>
-            <li>💻 Always seeking new challenges to continue growing.</li>
+            <li>👨‍🎓 I'm a programming technician.</li>
+            <li>💻 Always seeking new challenges.</li>
             <li>📫 federicocamandone@gmail.com</li>
         </ul>
     </h3>
